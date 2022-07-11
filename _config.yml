@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Claudia Esteves"
 title_separator          : "-"
-name                     : &name "Claudia E. Esteves Jaramillo"
+name                     : &name "Claudia Esteves's personal page"
 description              : &description "Professor, Universidad de Guanajuato"
 url                      : https://claudiaesteves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &kronopiok
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Claudia E. Esteves Jaramillo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Professor, Universidad de Guanajuato"
+  location         : "Guanajuato, MX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JJxuQ3QAAAAJ"
+  email            : cesteves@cimat.mx
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "claudiaesteves"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kronopiok"
   vine             :
   weibo            :
   xing             :
