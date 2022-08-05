@@ -15,5 +15,5 @@ I received a M.Sc. degree in Informatics from the [Université Toulouse III](htt
 <h3>News</h3>
 
 <ul>
-  <li> [MIG 2022](https://mig2022.cs.purdue.edu/) Conference co-chair</li>
+  <li><a href="https://mig2022.cs.purdue.edu/">MIG 2022</a> conference co-chair.</li>
 </ul>
