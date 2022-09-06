@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 14px;
+$doc-font-size              : 12px;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #f2ebe5;
+$background-color           : #f2ebe5;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : #2d3e4e;
